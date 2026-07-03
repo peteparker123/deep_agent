@@ -1,6 +1,6 @@
 # Deep Agents Research Report Generator
 
-A research agent powered by Google Gemini that conducts internet searches and automatically saves reports as markdown files.
+A research agent powered by Google Gemini that conducts internet searches and automatically saves reports as markdown files using deep agents.
 
 ## Features
 
